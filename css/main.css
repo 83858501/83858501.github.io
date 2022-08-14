@@ -1,3 +1,6 @@
+.headband {
+  display: none;
+}
 :root {
   --body-bg-color: #eee;
   --content-bg-color: #fff;
